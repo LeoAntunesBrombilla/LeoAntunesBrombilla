@@ -4,8 +4,8 @@ I'm a student of front end development with a bachelor degree in Applied Mathema
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some small projects like a binary to decimal converter to help me ground my skills
-- 🌱 I’m currently learning data strutcures and algorithms in Javascript 
+- 🔭 I am currently working on some small projects, to be able to solidify my skills.
+- 🌱 I’m currently learning data strutcures and algorithms in Javascript, as well as practicing HTML, CSS and Bootstrap
 - 💬 Ask me about anything
 
 ### Where to find me:
