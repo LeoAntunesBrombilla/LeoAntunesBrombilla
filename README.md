@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student of front end development with a bachelor degree in Applied Mathematics. I'm currently improving my skills in vanilla Javascript (ES6 Included), HTML, CSS, Bootstrap, Jquery. Also I'm learning and React, Express, Node, Mongo db and mongoose.
+I'm a student of front end development with a bachelor degree in Applied Mathematics. I'm currently improving my skills in vanilla Javascript (ES6 Included), HTML, CSS, Bootstrap, Jquery. Also I'm learning React, Express, Node, Mongo db and mongoose.
 
 - 🔭 I am currently working on some small projects, to be able to solidify my skills.
 - 🌱 I’m currently learning data strutcures and algorithms in Javascript, as well as practicing HTML, CSS and Bootstrap
