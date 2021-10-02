@@ -5,9 +5,3 @@ I'm a student of front end development with a bachelor degree in Applied Mathema
 - 🔭 I am currently working on Global Hitss as a junior software engineer.
 - 🌱 I’m currently learning React, React Native and Typescript.
 - 💬 Ask me about anything
-
-### Where to find me:
-
-<a href="https://www.linkedin.com/in/leonardo-brombilla/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
