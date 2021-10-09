@@ -5,7 +5,7 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
 - 🔭 I am currently working on Global Hitss as a junior software engineer.
 - 🌱 In my personal projects and at work i use daily the following stack:
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
@@ -18,3 +18,7 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="50px" />
 </p>
 
+<p align="center" >
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
+</p>
