@@ -27,7 +27,7 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
 <h2> My articles: </h2>
   <ul>
     <li> 
-      <a href="https://medium.com/@antunes.b.leonardo/redux-understanding-the-general-idea-cf1d8bda3f0)"> 
+      <a href="https://medium.com/@antunes.b.leonardo/redux-understanding-the-general-idea-cf1d8bda3f0"> 
         Redux. Understanding the general idea 
       </a> 
     </li>
