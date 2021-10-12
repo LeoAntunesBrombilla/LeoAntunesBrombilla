@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a junior software engineer with a bachelor degree in Applied Mathematics. I've started programming in January of 2021 and got accepted in a bootcamp.
 
@@ -22,3 +22,6 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
   <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
   <img height="220px" src="https://github-readme-stats.vercel.app/api/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
 </p>
+
+### My articles:
+- [Redux. Understanding the general idea](https://medium.com/@antunes.b.leonardo/redux-understanding-the-general-idea-cf1d8bda3f0)
