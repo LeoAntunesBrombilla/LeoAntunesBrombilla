@@ -1,4 +1,6 @@
-## Hi there 👋
+<p>
+<h1 align="center"> Hi there 👋 </h1>  
+</p>
 
 I'm a junior software engineer with a bachelor degree in Applied Mathematics. I've started programming in January of 2021 and got accepted in a bootcamp. Now I'm working at @GlobalHitss.
 
@@ -23,13 +25,16 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
   <img height="220px" src="https://github-readme-stats.vercel.app/api/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
 </p>
 
-<p>
-<h2> My articles: </h2>
-  <ul>
-    <li> 
+<p align="center" >
+<h2 align="center"> My articles </h2>
       <a href="https://medium.com/@antunes.b.leonardo/redux-understanding-the-general-idea-cf1d8bda3f0"> 
         Redux. Understanding the general idea 
       </a> 
-    </li>
-  </ul>
+</p>
+
+<p align="center" >
+  <h2 align="center"> Contact me </h2>
+  <a href="https://www.linkedin.com/in/leonardo-brombilla/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
