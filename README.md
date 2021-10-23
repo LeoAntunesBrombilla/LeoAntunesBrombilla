@@ -27,12 +27,18 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
 
 <p align="center" >
 <h2 align="center"> My articles </h2>
-      <a href="https://medium.com/@antunes.b.leonardo/redux-understanding-the-general-idea-cf1d8bda3f0"> 
-        Redux. Understanding the general idea 
-      </a> 
-      <a href="https://medium.com/@antunes.b.leonardo/set-up-a-login-flow-with-firebase-and-redux-saga-303ed2a116b8"> 
-        Set up a login flow with firebase and redux-saga using typescript. 
-      </a> 
+      <ul>
+          <li>
+            <a href="https://medium.com/@antunes.b.leonardo/redux-understanding-the-general-idea-cf1d8bda3f0"> 
+              Redux. Understanding the general idea 
+            </a> 
+          </li>
+          <li>
+            <a href="https://medium.com/@antunes.b.leonardo/set-up-a-login-flow-with-firebase-and-redux-saga-303ed2a116b8"> 
+              Set up a login flow with firebase and redux-saga using typescript. 
+            </a> 
+          </li>
+       </ul>
 </p>
 
 <p align="center" >
