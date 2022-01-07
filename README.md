@@ -17,6 +17,7 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
   <img src="https://user-images.githubusercontent.com/76003107/136183827-36dc03ae-d0d7-43af-8495-20b9e31a38d7.png" width="60px" />
   <img src="https://user-images.githubusercontent.com/76003107/136184025-0bf26d30-da38-4e00-9837-f02171ac8b64.png" width="45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="50px" />
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px">
 </p>
 
 <p align="center" >
