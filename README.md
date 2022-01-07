@@ -37,6 +37,11 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
               Set up a login flow with firebase and redux-saga using typescript. 
             </a> 
           </li>
+          <li>
+            <a href="https://www.freecodecamp.org/news/what-ive-learned-at-my-first-developer-job/"> 
+              I Got My First Developer Job – Here's What I've Learned So Far
+            </a> 
+          </li>
        </ul>
 </p>
 
