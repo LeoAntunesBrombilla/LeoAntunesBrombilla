@@ -21,11 +21,6 @@ I'm a junior software engineer with a bachelor degree in Applied Mathematics. I'
 </p>
 
 <p align="center" >
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/?username=LeoAntunesBrombilla&show_icons=true&theme=dracula&hide=html,css" />
-</p>
-
-<p align="center" >
 <h2 align="center"> My articles </h2>
       <ul>
           <li>
