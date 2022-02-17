@@ -20,8 +20,6 @@ I'm a software engineer with a bachelor degree in Applied Mathematics. I've star
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" />
-  <img src="https://user-images.githubusercontent.com/76003107/136183827-36dc03ae-d0d7-43af-8495-20b9e31a38d7.png" width="60px" />
 </p>
 
 <h2 align="center"> My Stats </h2>
