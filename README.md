@@ -28,7 +28,7 @@ I'm a software engineer with a bachelor degree in Applied Mathematics. I've star
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=LeoAntunesBrombilla&show_icons=true&theme=radical" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAntunesBrombilla&hide=css,html&layout=compact&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAntunesBrombilla&hide=css,html,objective-c,c,Vim script, Java&layout=compact&theme=radical" />
 <p>
 
 <p align="center" >
